@@ -1,0 +1,2 @@
+# i_wanna_baipiao_northeastern
+一些Northeastern的免费资源，旨在值回学费。
