@@ -12,7 +12,7 @@ Adobe全家桶: https://adobe.northeastern.edu/
 
 ### 办公：
 
-GSuite（包含无限制容量Google Drive）：https://myaccount.google.com/（登陆email地址为：你的ID@husky.neu.edu，除了Gmail以外其他Google Services都可以登录）
+GSuite（包含无限制容量Google Drive）：https://myaccount.google.com/ （登陆email地址为：你的ID@husky.neu.edu，除了Gmail以外其他Google Services都可以登录）
 
 Office 365：https://office365.northeastern.edu/
 
@@ -32,6 +32,6 @@ Microsoft Arzue：http://help.coe.neu.edu/coehelp/index.php/Azure_Dev_Tools_for_
 
 ## EDU邮箱白嫖类：
 
-Github Education：https://education.github.com/（强烈推荐JetBrains大礼包、Termius、Digital Ocean的免费credit）
+Github Education：https://education.github.com/ （强烈推荐Github Education里面的JetBrains大礼包、Termius、Digital Ocean的免费credit）
 
 Shape3D：https://www.shapr3d.com/education
