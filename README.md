@@ -6,5 +6,5 @@
 
 广告位：我的博客-[https://blog.tangyisheng2.com/](https://blog.tangyisheng2.com/)
 
-
+想要Star的客官在这里Star：[https://github.com/tangyisheng2/i\_wanna\_baipiao\_northeastern](https://github.com/tangyisheng2/i_wanna_baipiao_northeastern)
 
