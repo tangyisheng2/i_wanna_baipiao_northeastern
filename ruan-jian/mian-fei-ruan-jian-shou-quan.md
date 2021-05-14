@@ -16,6 +16,8 @@ Adobe全家桶: [https://adobe.northeastern.edu/](https://adobe.northeastern.edu
 
 GSuite（包含无限制容量Google Drive）：[https://myaccount.google.com/](https://myaccount.google.com/) （登陆email地址为：你的ID@husky.neu.edu，除了Gmail以外其他Google Services都可以登录）
 
+PS. Gsuite是可以终身使用的\(Ref: [https://service.northeastern.edu/tech?id=kb\_article&sys\_id=9dff587b1b0fe4103fcdcb35624bcb47](https://service.northeastern.edu/tech?id=kb_article&sys_id=9dff587b1b0fe4103fcdcb35624bcb47)\)
+
 Office 365：[https://office365.northeastern.edu/](https://office365.northeastern.edu/)
 
 ### 专业软件：
