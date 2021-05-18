@@ -8,3 +8,4 @@
 
 想要Star的客官在这里Star：[https://github.com/tangyisheng2/i\_wanna\_baipiao\_northeastern](https://github.com/tangyisheng2/i_wanna_baipiao_northeastern)
 
+本Repo同时也有Gitbook页面，可以获得更好的阅读体验：[https://tangyisheng2.gitbook.io/i-wanna-baipiao-northeastern/](https://tangyisheng2.gitbook.io/i-wanna-baipiao-northeastern/)
