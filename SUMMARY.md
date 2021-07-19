@@ -25,3 +25,7 @@
 
 * [Untitled](shua-ti-zi-liao/untitled.md)
 
+## 选课
+
+* [选课资料](xuan-ke/xuan-ke-zi-liao.md)
+
